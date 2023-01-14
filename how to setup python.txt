@@ -1,0 +1,28 @@
+HOW TO INSTALL/SETUP:
+1. create folder
+2. open folder and copy address/path
+3. open command prompt
+4. navigate to path (cd C:\Users\Blake\Desktop\Final Project)
+5. virtualenv env
+6. cd env
+7. cd Scripts
+8. activate
+9. cd ..
+10. cd ..
+11. pip install flask
+12. pip install flask-mysqldb
+13. Go to XAMPP Control Panel
+14. Start Apache and MySQL, go to admin of MySQL
+15. Create 'ibills' database
+16. import ibills.sql in Admin of SQL in XAMPP
+17. python app.py
+
+HOW TO RUN:
+1. navigate to path (cd C:\Users\UserName\Desktop\*)
+2. cd env
+3. cd Scripts
+4. activate
+5. cd ..
+6. cd ..
+7. python app.py
+
